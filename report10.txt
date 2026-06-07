@@ -1,0 +1,11 @@
+Лабораторная работа №10 — Vagrant
+Окружение: macOS (Apple Silicon, ARM64)
+Провайдер: Docker
+
+Успешно выполнены команды управления контейнером:
+- vagrant status
+- vagrant global-status
+- vagrant port (ограничено на docker)
+- vagrant snapshot list (ограничено на docker)
+- vagrant halt
+- vagrant destroy
